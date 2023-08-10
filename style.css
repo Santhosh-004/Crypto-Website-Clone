@@ -17,7 +17,7 @@ body {
 }
 
 .hor {
-    display: inline;
+    display: flex;
     margin-right: 10px;
 }
 
