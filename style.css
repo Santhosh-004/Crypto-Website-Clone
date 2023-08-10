@@ -1,0 +1,68 @@
+.myborder {
+    border: 1px solid white;
+
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-size: 17px;
+    color: white;
+    background: #2B2A2B;
+    padding: 30px 30px;
+}
+
+.nav-bar {
+    display: flex;
+}
+
+.hor {
+    display: inline;
+    margin-right: 10px;
+}
+
+.hor-end {
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    width: 48%;
+}
+
+.btn {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    border: none;
+    width: 130px;
+    background: #efc368;
+    height: fit-content;
+    border-radius: 15px;
+    
+}
+
+.sub-head {
+    padding: 70px 40px;
+}
+
+.box {
+    padding: 20px 40px;
+    border-radius: 20px;
+}
+
+.black-bg {
+    background: #212120;
+}
+
+p {
+    margin: 0px;
+}
+
+.container {
+    font-size: 15px;
+    display: grid;
+    grid-template-columns: 70% 1fr;
+    gap: 30px;
+    grid-row-gap: 0px;
+}
+
+  
